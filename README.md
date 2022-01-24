@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Heres the Demo of the project:
 
-<video src="task-tracker.mp4>
+<video src="task-tracker.mp4">
 
 ## Development server
 
